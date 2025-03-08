@@ -14,4 +14,8 @@ export_presets.cfg
 data_*/
 mono_crash.*.json
 
+<<<<<<< HEAD
 build/
+=======
+build/
+>>>>>>> 9e035ba77e011ff62f0f448406b581b8e5a00865
