@@ -11,3 +11,5 @@
 *.dae filter=lfs diff=lfs merge=lfs -text
 *.blend filter=lfs diff=lfs merge=lfs -text
 *.tscn filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.pck[[:space:]]*.rar filter=lfs diff=lfs merge=lfs -text
