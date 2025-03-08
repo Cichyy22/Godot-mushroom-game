@@ -1,21 +1,7 @@
-# Simple First Person Game template
+# The night of mushroom
 
-A really simple first person game template, that contains really basic stuff.
+The night of mushroom was created as a solo project/first ever game by me It was designed 
+to be a game that is simple to play but also so that I can learn Godot better.
 
-This template contains:
-- Player controller with basic movement (crouching, running, walking, looking with your mouse, etc)
-- Interactions (Interactibles3D)
-- Basic pause menu
-- Basic main menu
-- Debug information menu (sort of)
-- that's about it
-
-This template contains really basic stuff you'd want for a first person 3d game (probably). 
-
-## Getting Started
-
-Delete /test_scene_assets/ and TestPlace node in the main scene, and you're good to go. 
-
-Documentation is located in the scripts themselves and in that "Search Help" button on top of your script IDE thing.
-
-![God of the worlds, 2024 AD](test_scene_assets/cat_screenshot.jpg)
+The basic idea of the game is to collect the right amount of mushrooms (25)
+ and return home safely without getting caught by anything.
